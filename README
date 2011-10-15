@@ -1,0 +1,21 @@
+Use case:
+==========
+
+1) Show todo.txt file content in browser
+2) Add new task to todo.txt
+3) Add @context, +project, (priority) and DATE to new task
+4) Complete (x) a task
+5) Edit (priority) for a task
+6) Edit @context for a task
+7) Edit +project for a task
+8) Edit DATE for a task
+9) Delete a task
+10) ...
+
+
+TODO:
+==========
+
+1) index.js
+2) server.js
+3) requestHandlers.js
