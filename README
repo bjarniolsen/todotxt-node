@@ -1,7 +1,7 @@
 Use case:
 ==========
 
-1) Show todo.txt file content in browser
+1) x Show todo.txt file content in browser
 2) Add new task to todo.txt
 3) Add @context, +project, (priority) and DATE to new task
 4) Complete (x) a task
@@ -16,6 +16,6 @@ Use case:
 TODO:
 ==========
 
-1) index.js
-2) server.js
-3) requestHandlers.js
+1) x index.js
+2) x server.js
+3) x requestHandlers.js
