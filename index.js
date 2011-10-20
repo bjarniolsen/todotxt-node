@@ -7,5 +7,6 @@ handle[''] = requestHandlers.show;
 handle['todo'] = requestHandlers.show;
 handle['add'] = requestHandlers.add;
 handle['edit'] = requestHandlers.edit;
+handle['update'] = requestHandlers.update;
 
 server.start(router.route, handle);
